@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pacman()
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment10.params=GhostNumba
+comment10.target=void\ moveGhosts(int)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=dir
+comment3.target=void\ movePacman(int)
+comment4.params=tempGhostNum\ gDir\ tempX\ tempY
+comment4.target=void\ moveGhostPos(int,\ int,\ int,\ int)
+comment5.params=xSpot\ ySpot
+comment5.target=int\ checkSpot(int,\ int)
+comment6.params=
+comment6.target=void\ removeDots()
+comment7.params=
+comment7.target=void\ enterCoordinates()
+comment8.params=
+comment8.target=void\ checkGame()
+comment9.params=
+comment9.target=int\ getDistances()
+numComments=11

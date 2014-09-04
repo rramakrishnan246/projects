@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Board()
+comment1.params=
+comment1.target=void\ BaseValue()
+comment2.params=
+comment2.target=int[][]\ makeObstacles()
+comment3.params=
+comment3.target=void\ SpellLancers()
+comment4.params=
+comment4.target=void\ clearInner()
+comment5.params=
+comment5.target=void\ ghostsCage()
+numComments=6
